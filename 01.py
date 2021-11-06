@@ -1,3 +1,5 @@
+# Exercises from chapter one
+# Just testing that my debugger, git functionality and run-time environment work properly.
 
 # Initializes User Data and friendships
 users = [
