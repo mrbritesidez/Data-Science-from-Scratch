@@ -1,4 +1,4 @@
-# Exercises from Chapter 2
+# Exercises from Chapter 2 - Python Refresher
 # Collection of things I haven't used and interesting observations of those things I haven't used.
 
 # Use Default Dictionary to create a dictionary that will insert default values using a function
